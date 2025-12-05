@@ -1,3 +1,0 @@
-[-] Reformular a estrutura do LLVM generator.
-  [-] Separar diferentemente os Símbolos. 
-  [-] Fazer de forma mais generalista todas as funções para geração.
